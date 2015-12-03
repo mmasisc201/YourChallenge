@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Your Challenge</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_register">Crear Cuenta</string>
+    <string name="error_invalid_email">Esta dirección es invalida</string>
+    <string name="error_invalid_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="server_url">http://yourchallenge-appstions.rhcloud.com/services</string>
+    <string name="login_url">/player/login</string>
+    <string name="loading_message_login">Conectando y probando</string>
+    <string name="message_error_general">Ha ocurrido un problema!!</string>
+    <string name="message_sucess_general">Correcto</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+</resources>
